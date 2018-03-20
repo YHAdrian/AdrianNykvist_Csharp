@@ -1,0 +1,10 @@
+D:\Dokument\BI relaterade programspråk\C#\AirBnBStatistics\AirBnBStatistics\AirBnBStatistics\bin\Debug\AirBnBStatistics.exe.config
+D:\Dokument\BI relaterade programspråk\C#\AirBnBStatistics\AirBnBStatistics\AirBnBStatistics\bin\Debug\AirBnBStatistics.exe
+D:\Dokument\BI relaterade programspråk\C#\AirBnBStatistics\AirBnBStatistics\AirBnBStatistics\bin\Debug\AirBnBStatistics.pdb
+D:\Dokument\BI relaterade programspråk\C#\AirBnBStatistics\AirBnBStatistics\AirBnBStatistics\obj\Debug\AirBnBStatistics.csprojResolveAssemblyReference.cache
+D:\Dokument\BI relaterade programspråk\C#\AirBnBStatistics\AirBnBStatistics\AirBnBStatistics\obj\Debug\AirBnBStatistics.Form1.resources
+D:\Dokument\BI relaterade programspråk\C#\AirBnBStatistics\AirBnBStatistics\AirBnBStatistics\obj\Debug\AirBnBStatistics.Properties.Resources.resources
+D:\Dokument\BI relaterade programspråk\C#\AirBnBStatistics\AirBnBStatistics\AirBnBStatistics\obj\Debug\AirBnBStatistics.csproj.GenerateResource.Cache
+D:\Dokument\BI relaterade programspråk\C#\AirBnBStatistics\AirBnBStatistics\AirBnBStatistics\obj\Debug\AirBnBStatistics.csproj.CoreCompileInputs.cache
+D:\Dokument\BI relaterade programspråk\C#\AirBnBStatistics\AirBnBStatistics\AirBnBStatistics\obj\Debug\AirBnBStatistics.exe
+D:\Dokument\BI relaterade programspråk\C#\AirBnBStatistics\AirBnBStatistics\AirBnBStatistics\obj\Debug\AirBnBStatistics.pdb
