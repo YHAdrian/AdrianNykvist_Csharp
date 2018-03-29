@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace AirBnBStatistics
 {
@@ -14,6 +15,8 @@ namespace AirBnBStatistics
         [STAThread]
         static void Main()
         {
+            Country testland = new Country("hej", 10, 39);
+            Debug.WriteLine(testland.ObjektlistCities);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

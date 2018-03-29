@@ -8,3 +8,13 @@ D:\Dokument\BI relaterade programspråk\C#\AirBnBStatistics\AirBnBStatistics\Air
 D:\Dokument\BI relaterade programspråk\C#\AirBnBStatistics\AirBnBStatistics\AirBnBStatistics\obj\Debug\AirBnBStatistics.csproj.CoreCompileInputs.cache
 D:\Dokument\BI relaterade programspråk\C#\AirBnBStatistics\AirBnBStatistics\AirBnBStatistics\obj\Debug\AirBnBStatistics.exe
 D:\Dokument\BI relaterade programspråk\C#\AirBnBStatistics\AirBnBStatistics\AirBnBStatistics\obj\Debug\AirBnBStatistics.pdb
+C:\Users\maxma\source\repos\AdrianNykvist_Csharp\AirBnBStatistics\bin\Debug\AirBnBStatistics.exe.config
+C:\Users\maxma\source\repos\AdrianNykvist_Csharp\AirBnBStatistics\bin\Debug\AirBnBStatistics.exe
+C:\Users\maxma\source\repos\AdrianNykvist_Csharp\AirBnBStatistics\bin\Debug\AirBnBStatistics.pdb
+C:\Users\maxma\source\repos\AdrianNykvist_Csharp\AirBnBStatistics\obj\Debug\AirBnBStatistics.csprojResolveAssemblyReference.cache
+C:\Users\maxma\source\repos\AdrianNykvist_Csharp\AirBnBStatistics\obj\Debug\AirBnBStatistics.Form1.resources
+C:\Users\maxma\source\repos\AdrianNykvist_Csharp\AirBnBStatistics\obj\Debug\AirBnBStatistics.Properties.Resources.resources
+C:\Users\maxma\source\repos\AdrianNykvist_Csharp\AirBnBStatistics\obj\Debug\AirBnBStatistics.csproj.GenerateResource.Cache
+C:\Users\maxma\source\repos\AdrianNykvist_Csharp\AirBnBStatistics\obj\Debug\AirBnBStatistics.csproj.CoreCompileInputs.cache
+C:\Users\maxma\source\repos\AdrianNykvist_Csharp\AirBnBStatistics\obj\Debug\AirBnBStatistics.exe
+C:\Users\maxma\source\repos\AdrianNykvist_Csharp\AirBnBStatistics\obj\Debug\AirBnBStatistics.pdb

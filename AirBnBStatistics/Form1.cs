@@ -8,7 +8,10 @@ using System.Windows.Forms.DataVisualization.Charting;
 
 
 
-
+// Väldigt bra skriven kod, Personligen hade jag velat se mer användande av listor och foreach loopar vid initiering av data för att öka normaliseringen.
+// så vid eventuella tillägg av städer behöver ma bara lägga in namn vid ett ställe, vilket minskar risk för fel och onödigt arbete.
+// Sen är de lite konstigt att Countryconstruktorn inte har ett värde för stadslistan, vilket resulterar vid nullvärden och eventuella fel vid skapande (tror jag?!)
+// I övrigt tydligt och bra skrivet.
 namespace AirBnBStatistics
 {
     public partial class Form1 : Form
@@ -19,7 +22,7 @@ namespace AirBnBStatistics
         private City valdStad;
         int maxPrice = 500;
 
-        private void ScatterPlot()
+        private void ScatterPlot()//
         {
             scatterChart.Series.Clear();
             scatterChart.Series.Add(valdStad.Namn);
@@ -92,9 +95,7 @@ namespace AirBnBStatistics
         {
             InitializeComponent();
 
-            conn.ConnectionString = "user id=sa; password=1234;" +
-                                    "database=AirBnBStats;server=LAPTOP-7AL6OH88\\SQL2017;" +
-                                    "Integrated Security=True;connection timeout=10";
+            conn.ConnectionString = "Data Source=DESKTOP-VRGDF71;Initial Catalog=Cars;Integrated Security=True";
 
         }
 
